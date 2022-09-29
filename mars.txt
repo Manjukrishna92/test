@@ -1,2 +1,3 @@
 Cold, Raining, first line
 second edit
+this is a conflic edit from A
